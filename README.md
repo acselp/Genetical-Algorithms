@@ -10,7 +10,7 @@ usefull stuff in optimization.
 ---
 
 <h1>Acknowledgement</h1><br>
-I'd like to express my special thanks to these two geniuses who made an extremely good thing explaining in<br>
+I'd like to express my special thanks to these two geniuses who made an extremely good job explaining in<br>
 a quite simple way such a complicated topic.<br><br>
 <b>Kie Codes</b><br>
 <a href="https://www.youtube.com/watch?v=uQj5UNhCPuo&t=309s">https://www.youtube.com/watch?v=uQj5UNhCPuo&t=309s</a><br><br>
