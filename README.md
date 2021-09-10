@@ -7,12 +7,3 @@ So the first two problems are solved in two ways: using Genetical Algorithms and
 it was made to compare this two types of algorithms and to prove that Genetical Algorithms are a quite<br>
 usefull stuff in optimization.
 
----
-
-<h1>Acknowledgement</h1><br>
-I'd like to express my special thanks to these two geniuses who made an extremely good job explaining in<br>
-a quite simple way such a complicated topic.<br><br>
-<b>Kie Codes</b><br>
-<a href="https://www.youtube.com/watch?v=uQj5UNhCPuo&t=309s">https://www.youtube.com/watch?v=uQj5UNhCPuo&t=309s</a><br><br>
-<b>The Coding Train</b><br>
-<a href="https://www.youtube.com/watch?v=BAejnwN4Ccw&t=307s">https://www.youtube.com/watch?v=BAejnwN4Ccw&t=307s</a>
